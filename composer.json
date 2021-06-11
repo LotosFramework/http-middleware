@@ -10,11 +10,7 @@
     ],
     "autoload": {
         "psr-4": {
-            "Lotos\\ORM\\": "src/",
-            "Lotos\\ORM\\Abstractions\\": "src/Abstractions/",
-            "Lotos\\ORM\\Adapters\\": "src/Adapters/",
-            "Lotos\\ORM\\Exceptions\\": "src/Exceptions/",
-            "Lotos\\ORM\\Interfaces\\": "src/Interfaces/"
+            "Lotos\\Http\\Middleware": "src/"
         }
     },
     "minimum-stability": "stable",
